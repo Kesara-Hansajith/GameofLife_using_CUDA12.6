@@ -44,7 +44,6 @@ This repository contains an implementation of Conway's Game of Life using CUDA f
 
 ### How to Play
 - Enter the width and height of the game board when prompted.
-- Choose the game mode (automatic or manual).
 - Observe the evolution of the grid based on the rules of the Game of Life.
 
 
